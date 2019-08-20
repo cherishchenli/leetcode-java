@@ -1,8 +1,6 @@
 # leetcode-java
 
-<br>
-### Array
-<br>
+### Array<br>
 * [1 Two Sum](https://github.com/cherishchenli/leetcode-java/blob/master/array/TwoSum.java)
 * [15 3Sum](https://github.com/cherishchenli/leetcode-java/blob/master/array/ThreeSum.java)
 * [16 3Sum Closest](https://github.com/cherishchenli/leetcode-java/blob/master/array/ThreeSumClosest.java)
@@ -14,9 +12,7 @@
 * [349 Intersection of Two Arrays](https://github.com/cherishchenli/leetcode-java/blob/master/array/IntersectionOfTwoArrays.java)
 * [350 Intersection of Two Arrays II](https://github.com/cherishchenli/leetcode-java/blob/master/array/IntersectionOfTwoArraysII.java)
 
-<br>
-### Dynamic Programming
-<br>
+### Dynamic Programming<br>
 * [53 Maximum Subarray](https://github.com/cherishchenli/leetcode-java/blob/master/dynamic_programming/MaximumSubarray.java)
 * [62 Unique Paths](https://github.com/cherishchenli/leetcode-java/blob/master/dynamic_programming/UniquePaths.java)
 * [63 Unique Paths II](https://github.com/cherishchenli/leetcode-java/blob/master/dynamic_programming/UniquePathsII.java)
