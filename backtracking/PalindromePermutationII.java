@@ -2,7 +2,7 @@ package backtracking;
 
 import java.util.*;
 
-public class PalindromePartitioningII {
+public class PalindromePermutationII {
 
 	private int[] freq = new int[256];
 
