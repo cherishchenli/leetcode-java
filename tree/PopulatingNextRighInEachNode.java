@@ -34,13 +34,11 @@ public class PopulatingNextRighInEachNode {
 
 		solution2(root.left);
 		solution2(root.right);
-
 	}
 
 	class TreeLinkNode {
 		int val;
 		TreeLinkNode left, right, next;
-
 		TreeLinkNode(int x) {
 			val = x;
 		}
